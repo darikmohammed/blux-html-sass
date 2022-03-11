@@ -1,6 +1,6 @@
 # Project Name
 
-> Portfolio: Mobile and Desktop version
+> Blux: Mobile and Desktop version
 
 ## Built With
 
