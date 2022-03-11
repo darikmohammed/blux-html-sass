@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Demo Link]
+[Live Demo Link](https://darikmohammed.github.io/blux-html-sass/)
 
 👤 **Author1**
 
