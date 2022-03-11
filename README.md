@@ -33,3 +33,5 @@ Give a ⭐️ if you like this project!
 - etc
 
 ## 📝 License
+
+- Figma designe [Blux--Crypto-Website-(community)](<https://www.figma.com/file/Cj6iJiGaqx5X74zvNKCnx3/Blux---Crypto-Website-(Community)?node-id=1%3A2>)
