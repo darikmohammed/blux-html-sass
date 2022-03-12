@@ -1,4 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Sen:wght@400;700&display=swap");
 :root {
   --primary-color: #2b61d1;
+}
+
+body {
+  background-color: #201f1f;
+  color: #ffffff;
+  font-family: "Sen", sans-serif;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h4 {
+  font-size: 24px;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  font-size: 18px;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+button {
+  border: var(--primary-color) 0.2rem solid;
+  border-radius: 60px;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0);
+  font-size: 24px;
+  padding: 0.5rem 2rem;
+  margin: 1.5rem 0;
+}
+
+header {
+  margin: 2.5rem 1rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+header .nav-elements {
+  display: none;
+}
+
+header .logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 1rem;
+}
+
+header .logo .logo-text {
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.home-section {
+  text-align: center;
+  margin: 8rem 4rem;
+}
+
+.home-section img {
+  display: none;
+}
+
+.features-section {
+  text-align: center;
+  margin: 8rem 4rem;
+}
+
+.features-section img {
+  display: none;
+}
+
+.section-two {
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #020015;
+  text-align: center;
+  padding: 3rem 3.5rem;
+}
+
+.section-two p {
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 24px;
+}
+
+.section-two .price-section .card {
+  margin: 2rem;
+  border-radius: 30px;
+  -webkit-box-shadow: 5.27px 5.27px 30px rgba(0, 0, 0, 0.25);
+          box-shadow: 5.27px 5.27px 30px rgba(0, 0, 0, 0.25);
+  padding: 1rem 0;
+}
+
+.section-two .price-section .card .card-flux {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.section-two .price-section .card img {
+  margin: 1rem 0;
+}
+
+.section-two .price-section .card .kadena {
+  color: #ed098f;
+}
+
+.section-two .price-section .card .ethereum {
+  color: #343434;
+}
+
+.section-two .price-section .card .binance {
+  color: #f3ba2f;
 }
 /*# sourceMappingURL=style.css.map */
