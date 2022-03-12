@@ -73,16 +73,16 @@ header .logo .logo-text {
   font-size: 36px;
 }
 
+.social {
+  display: none;
+}
+
 .home-section {
   text-align: center;
   margin: 8rem 4rem;
 }
 
 .home-section .home-image {
-  display: none;
-}
-
-.home-section .social {
   display: none;
 }
 
